@@ -1,4 +1,4 @@
-# 2007 GunZ Source (OldGunZ)
+# 2007 GunZ Source (OldGunZ) (VS2003:build)
 
 ---------------------
 건즈 (GunZ: The Duel)
