@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug
+END
+regex.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/regex.lib
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/libmysql.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/zlib.lib
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/libmysql.dll
+END
+mysqlclient.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/mysqlclient.lib
+END
+mysys.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/mysys.lib
+END
+strings.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Gunz/!svn/ver/4866/Develop/AbuseWord/Runtime/lib/debug/strings.lib
+END
