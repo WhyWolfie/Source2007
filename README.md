@@ -1,4 +1,4 @@
-# source2007 (OldGunZ)
+# 2007 GunZ Source (OldGunZ)
 
 ---------------------
 건즈 (GunZ: The Duel)
